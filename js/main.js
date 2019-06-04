@@ -189,7 +189,7 @@
 	/*----------------------------------------------------*/
 	/* Final Countdown Settings
 	------------------------------------------------------ */
-	var finalDate = '2019/06/05';
+	var finalDate = '2019/06/06';
 
 	$('div#counter').countdown(finalDate, function(event) {
 
